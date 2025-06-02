@@ -9,3 +9,7 @@ if x == None:
 x = None
 if x is None:
     print('Yes, x is None!')
+
+#'is not' can be used to negate this
+
+#Asking Do these two things reside in the same place in memory? Warning, don't go overboard with 'is'!
