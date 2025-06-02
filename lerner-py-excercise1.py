@@ -6,4 +6,4 @@ if weather == 'rainy' or weather =='snowy':
 elif weather == 'sunny':
     print('Sweet! Let us go for a walk around the neighborhood today then!')
 else:
-    print('Uhh... Not sure what that is. Is it raining meatballs or something?')
+    print('Uhh... Not sure what ' + weather + ' is. Is it raining meatballs or something?')
