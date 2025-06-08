@@ -10,8 +10,15 @@
 
 #name is a string...non-empty strings are True in a boolean context, thus we can do:
 
-name = input('Enter your name: ')
-if name:
-    print('Hello, ' + name)
-else:
-    print('Hey! You did not enter a name!')
+# name = input('Enter your name: ')
+# if name:
+#     print('Hello, ' + name)
+# else:
+#     print('Hey! You did not enter a name!')
+
+#Now say we want to check if something is true, if we set it to true beforehand, then there is not need to say it again
+
+x = True
+
+if x:
+    print('Yes, it is True!')
