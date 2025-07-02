@@ -14,9 +14,10 @@ elif guess > number:
     print('Your guess was too high!')
 elif guess == number:
     print('Your guess was just right, congrats!')
-
-
+else:
+    print('The math is not mathing...')
 
 #Print the number (for easier debugging)
 #Ask the user to guess the number
 #Print that the guess was too high / too low / just right!
+
