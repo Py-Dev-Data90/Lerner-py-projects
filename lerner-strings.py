@@ -14,4 +14,5 @@ halver(test_str)
 halver('a')
 #program returns an empty string because it floors 0.5 to 0, up to but not including a? nothing, so an empty string.
 #index is the position of characters, indices is the plural form
+#remember that the indices/index of characters start at zero in almost all computer languages
 halver('abcd')
