@@ -16,3 +16,6 @@ halver('a')
 #index is the position of characters, indices is the plural form
 #remember that the indices/index of characters start at zero in almost all computer languages
 halver('abcd')
+
+print(test_str[0])
+#returns the character that is at the 0 mark in the string
