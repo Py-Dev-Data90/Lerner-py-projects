@@ -15,3 +15,5 @@ print(result)
 #remember in Python, right side is evaluated before the left
 
 #  x += 1 is almost the same as x = x + 1
+
+#when you assign, you are breaking the variable and what it had previous connection to, 'referencing' to a new value

@@ -18,4 +18,5 @@ halver('a')
 halver('abcd')
 
 print(test_str[0])
+print(test_str[-1]) #return the final element of the string
 #returns the character that is at the 0 mark in the string

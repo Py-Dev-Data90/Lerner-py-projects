@@ -1,7 +1,8 @@
 # Let's start with the basics of number systems:
+#BASICALLY BASE TEN IS NORMAL NUMBERS
 #So base 10 is 10 numbers, including zero, so 0-9. In the hexidecimal system, 0 is 1, 1 is 2, 2 is 3, etc etc up until 9, where it transfers to the alphabet. A is 10, B is 11, C is 12, D is 13, E is 14, F is 15
 # IMPORTANT, In normal numbers, that is in base 10, means we have one stick of 10 and zero little cubes besides that. In base 16, this just means we have one stick of 16. We now have 16 cubes per stick rather than 10
-# Decimal (Base 10) is the standard number system we use every day.
+# Decimal (Base 10) is the standard number system we use every day. So the first number is the full units and the second is the remainder. So four sticks of 16 blocks would be 64, and A would just be 10
 # It uses digits from 0 to 9. For example, the number 1234 means:
 # (1 * 1000) + (2 * 100) + (3 * 10) + (4 * 1)
 
