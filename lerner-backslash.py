@@ -1,0 +1,1 @@
+#EOL means End of Line, and backslash n means go down a line, backslash t means tab over, backslash backslash becomes a new character, backslash v is vertical tab
