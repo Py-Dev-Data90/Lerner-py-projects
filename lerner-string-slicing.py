@@ -13,4 +13,4 @@ print(s[:]) #print from the start to the end
 #NOW FOR THE MAGIC TWO, two colons mean that (up to (and not including)) and the second colon mean 'with a step size of', which says how many increments it will go up, like every odd number, or every even  number
 
 
-# REMEMBER--> start:end:step
+# REMEMBER--> start:end:step, so both s[::2] and s[1::2] work
