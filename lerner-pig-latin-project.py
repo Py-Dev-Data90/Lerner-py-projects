@@ -6,7 +6,7 @@
 
 def pig_lator():
     vowels = 'aeiouAEIOU'
-    user_input = input('Enter thy piggy phrase, with capital letters and proper punctuation please: ')
+    user_input = input('Enter thy piggy word, with capital letters and proper punctuation please: ')
     
     first_letter = user_input[0]
     
@@ -14,3 +14,4 @@ def pig_lator():
         print(user_input + 'way')
     else:
         print(user_input[1:] + first_letter + 'ay')
+pig_lator()
