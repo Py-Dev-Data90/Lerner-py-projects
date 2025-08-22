@@ -11,3 +11,7 @@ print('Hello,' + name + '!')
 # from the end: word[-1] gives you the last character.
 s = 'abcdefghijklmnopqrstuvwxyz'
 print(s.index('o'))
+# The find() method searches for a substring within a string and returns the index
+# of the first occurrence. If the substring isn't found, it returns -1.
+# For example: "hello".find("e") returns 1, because 'e' is at index 1.
+# It's useful when you want to locate something without raising an error if it's missing.
